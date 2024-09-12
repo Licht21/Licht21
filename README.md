@@ -1,5 +1,5 @@
 # Learning Experience
-Learning Experience, Just Starting As Cloud Com[uting Cohort At Bangkit Academy
+Learning Experience, Just Starting As Cloud Computing Cohort At Bangkit Academy
 --
 *10 Sept 2024*  
 --
